@@ -1,2 +1,2 @@
-# selectWords
-select words from page
+# selectWordsPlugin
+使用jquery,bootstrap实现的一个页面提词插件
